@@ -6,7 +6,9 @@
 
 ## **Opis projektu**  
 Projekt dotyczy klasyfikacji obrazów psów i kotów przy użyciu sztucznej sieci neuronowej (SSN). Celem było zbudowanie i przetestowanie różnych architektur sieci w celu osiągnięcia możliwie najlepszej dokładności klasyfikacji.
+
 ---
+
 ## **Technologie i Biblioteki**  
 - **Python** – główny język programowania  
 - **TensorFlow/Keras** – budowa i trenowanie sieci neuronowych  
